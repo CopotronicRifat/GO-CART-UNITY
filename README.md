@@ -35,9 +35,7 @@
 - `Scripts/`: Contains player controller and scoring scripts.
 - `Prefabs/`: Stores pre-configured game objects.
 
-## Screenshot
 
-*(Add a screenshot or gameplay gif here if available)*
 
 ## License
 
